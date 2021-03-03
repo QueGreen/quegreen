@@ -17,6 +17,7 @@ I loved it immedately. Mainly because I noticed the similaritities between Fashi
 - 📫 How to reach me: via email is best or via LinkedIn 
 - ⚡ Fun fact: I am a fashion designer who feel in love with web design and cyber security 
   
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/quegreen)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jmonetwright/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/QueJGreen)  
 
 ![Profile views](https://gpvc.arturio.dev/quegreen)  
 
