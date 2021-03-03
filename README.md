@@ -14,7 +14,7 @@ I loved it immedately. Mainly because I noticed the similaritities between Fashi
 - 🌱 I’m currently learning **full-stack web development.** 
 - 🤔 I’m looking for help with growing my coding and developer skills while **collaborating with other skilled devs!** 
 - 💬 Ask me about my **customer service background** or my current projects. 
-- 📫 How to [reach me: via email](<a href="mailto:jamwrightx@gmail.com>) or via [LinkedIn](https://www.linkedin.com/in/jmonetwright/) 
+- 📫 How to: [reach me via email](<a href="mailto:jamwrightx@gmail.com">) or via [LinkedIn](https://www.linkedin.com/in/jmonetwright/) 
 - ⚡ Fun fact: I am a **fashion designer who feel in love with web design and cyber security** 
 
 #### [My Codeply](https://www.codeply.com/u/quegreen)
