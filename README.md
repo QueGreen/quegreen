@@ -1,9 +1,6 @@
 ### Salutations, I'm J.Monet! 💻👋🏾
-
-I am currently teaching myself to code as I finish up Angela Yu's (Founder of London App Brewery) Web Developer Bootcamp. At the beginning of bootcamp, I enjoyed UX, UI, Wireframing, immedately. Mainly because I noticed the similaritities between Fashion Design and Web Design! 
-In 2015, I began teaching myself to sew (with guidance from my Grandmother & her mother). I currently handcraft custom clothes on the side.
-### Hi there 👋, I'm J.Monet!
 #### A self-taught Full-stack Developer
+
 ![A self-taught Full-stack Developer](https://media-exp1.licdn.com/dms/image/C4E16AQGdFoUuO_V2bQ/profile-displaybackgroundimage-shrink_350_1400/0/1614792785141?e=1620259200&v=beta&t=z30XTl5cJAGKVcDZa-YL2KzIlVV9OIxYtwVN3KU8Xjs)
 
 I am currently teaching myself to code as I finish up Angela Yu's (Founder of [London App Brewery](https://www.londonappbrewery.com/)) Web Developer Bootcamp. 
@@ -30,3 +27,6 @@ Skills:  JQUERY / JS / HTML / CSS
 
 ![Profile views](https://gpvc.arturio.dev/quegreen)  
 
+
+I am currently teaching myself to code as I finish up Angela Yu's (Founder of London App Brewery) Web Developer Bootcamp. At the beginning of bootcamp, I enjoyed UX, UI, Wireframing, immedately. Mainly because I noticed the similaritities between Fashion Design and Web Design! 
+In 2015, I began teaching myself to sew (with guidance from my Grandmother & her mother). I currently handcraft custom clothes on the side.
