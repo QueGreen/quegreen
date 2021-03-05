@@ -4,7 +4,7 @@
 I am currently teaching myself to code as I finish up Angela Yu's (Founder of [London App Brewery](https://www.londonappbrewery.com/)) Web Developer Bootcamp. 
 
 At the beginning of bootcamp, I learned UX, UI and Wireframing.
-I loved it immedately. Mainly because I noticed the similaritities between Fashion Design and Web Design! 
+I loved it immedately! Mainly because I noticed the similarities between Fashion Design and Web Design! 
 
 ## Skills & Experience
 
