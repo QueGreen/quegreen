@@ -1,9 +1,10 @@
-![A self-taught Full-stack Developer](https://github.com/QueGreen/quegreen/blob/41b818fdd5964c1e561e62dee28c2a8b57cdba08/j.monet%20full%20stack%20web%20developer%20github.PNG)
+![A budding Front-End Developer](https://user-images.githubusercontent.com/74795209/117553005-e9062900-b01c-11eb-94c4-9b5772db2f50.png)
+
 
 # Salutations, I'm J.Monet! 💻👋🏾
 I am currently teaching myself to code as I finish up Angela Yu's (Founder of [London App Brewery](https://www.londonappbrewery.com/)) Web Developer Bootcamp. 
 
-At the beginning of bootcamp, I learned UX, UI and Wireframing.
+At the beginning of bootcamp, I learned UX design, UI design and Wireframing.
 I loved it immedately! Mainly because I noticed the similarities between Fashion Design and Web Design! 
 
 ## Skills & Experience
